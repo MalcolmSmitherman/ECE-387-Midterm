@@ -1,0 +1,1 @@
+This page will help you get your MMA8451 accelerometer working for your raspberry pie microprocessor! While other repositories exist for this particular chip, this one will allow you to tell the orientation your chip is in.
